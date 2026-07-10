@@ -4,9 +4,10 @@ using namespace std;
 
 int main() {
     int em = 0;
+    pair<char, int> A;
     for(int i=0; i<3; i++)
     {
-        pair<char, int> A;
+
 
         cin >> A.first >> A.second;
 
